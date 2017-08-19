@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZionFileDownloader</string>
+
+
+    <string name="mp3_file_title_dw">Muzik dosyası</string>
+    <string name="image_file_title_dw">Resim dosyası</string>
+    <string name="pdf_file_title_dw">Pdf dosyası</string>
+    <string name="video_file_title_dw">Video dosyası</string>
+    <string name="status_downloading_dw">indiriliyor..</string>
+
+</resources>
