@@ -34,8 +34,22 @@ ZionDownloadFactory factory = new ZionDownloadFactory(this, pdfUrl, "fileName");
             }
         });
 ```
-
 ## for choosing another type download mode just change FILE_TYPE parameter.. <h2>
+
+###### can change download status info strings <h6>
+ ```xml
+ 
+    <string name="mp3_file_title_dw"></string>
+    <string name="image_file_title_dw"></string>
+    <string name="pdf_file_title_dw"></string>
+    <string name="video_file_title_dw"></string>
+    <string name="status_downloading_dw"></string>
+ 
+ ```
+
+
+
+###### dependencies <h6>
 
 ```gradle
 allprojects {
